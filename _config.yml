@@ -1,0 +1,32 @@
+# 配置基本信息
+title: '' 
+# 你的博客标题
+email: '' 
+# 你的邮箱地址
+description: '' 
+# 描述你的博客
+  这里是博客的描述文本，可以写多行。
+baseurl: "" # 如果你的仓库名不是用作博客的URL，请在这里设置相应的子路径
+url: "https://yu33967.github.io" # 你的博客的完整URL
+ 
+# 配置发布文章的目录
+posts_dir: "_posts"
+ 
+# 配置分类和标签
+default_category: 默认分类
+category_map:
+  python: Python
+  jekyll: Jekyll
+ 
+# 配置时间显示格式
+timezone: "Asia/Shanghai"
+ 
+# 配置Markdown解析器
+markdown: kramdown
+ 
+# 配置高级设置
+kramdown:
+  auto_ids: false
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
