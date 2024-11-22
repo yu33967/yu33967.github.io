@@ -10,7 +10,7 @@ baseurl: "" # 如果你的仓库名不是用作博客的URL，请在这里设置
 url: "https://yu33967.github.io" # 你的博客的完整URL
  
 # 配置发布文章的目录
-posts_dir: "_posts"
+posts_dir: "."
  
 # 配置分类和标签
 default_category: 默认分类
