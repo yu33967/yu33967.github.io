@@ -6,7 +6,7 @@ email: ''
 description: '' 
 # 描述你的博客
 # 这里是博客的描述文本，可以写多行。
-baseurl: "" # 如果你的仓库名不是用作博客的URL，请在这里设置相应的子路径
+baseurl: "/_post" # 如果你的仓库名不是用作博客的URL，请在这里设置相应的子路径
 url: "https://yu33967.github.io" # 你的博客的完整URL
  
 # 配置发布文章的目录
